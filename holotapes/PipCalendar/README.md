@@ -15,6 +15,8 @@ Websites:
 A simple calendar app for your Pip-Boy 3000. Allows you to easily set reminders
 to keep track of your tasks for rebuilding America!
 
+Tested on firmware version 1.1.6.
+
 ## Controls
 
 - Navigation Mode: -- Left click = change selection. -- Left and right scroll =
